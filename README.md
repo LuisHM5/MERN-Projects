@@ -1,6 +1,6 @@
 # MERN Projects
 
-1. [Movie reviews app](##Movie-reviews-app)
+1. [Movie reviews app](##movie-reviews-app)
 2. Social media platform
 3. Web-based classroom application
 4. Online marketplace
