@@ -24,13 +24,13 @@ npm init -y
 Production
 
 ```
-npm i
+npm i express cors mongodb dotenv
 ```
 
 Dev
 
 ```
-npm i -D
+npm i -D nodemon
 ```
 
 ---
