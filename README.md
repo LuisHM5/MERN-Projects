@@ -19,12 +19,16 @@
 npm init -y
 ```
 
+```
+mkdir src src/DAO src/controllers
+```
+
 ### Dependencies
 
 Production
 
 ```
-npm i express cors mongodb dotenv
+npm i express cors mongodb dotenv morgan
 ```
 
 Dev
